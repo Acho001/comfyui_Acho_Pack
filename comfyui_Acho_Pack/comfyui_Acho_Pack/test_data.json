@@ -1,0 +1,13 @@
+{
+  "test": "这是一个测试JSON文件",
+  "version": "1.0",
+  "data": {
+    "name": "Acho Pack",
+    "description": "ComfyUI 自定义节点包"
+  },
+  "items": [
+    "item1",
+    "item2",
+    "item3"
+  ]
+}
